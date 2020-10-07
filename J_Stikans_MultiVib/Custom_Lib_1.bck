@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BC846BDW1
+D Dual NPN integrated general purpose NPN transistors
+K Transistor, NPN, Dual
+$ENDCMP
+#
 $CMP Q_NPN_CBE
 D NPN transistor, collector/base/emitter
 K transistor NPN

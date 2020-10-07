@@ -5,6 +5,12 @@ D Dual NPN integrated general purpose NPN transistors
 K Transistor, NPN, Dual
 $ENDCMP
 #
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
 $CMP Q_NPN_CBE
 D NPN transistor, collector/base/emitter
 K transistor NPN
