@@ -5,6 +5,12 @@ D Dual NPN integrated general purpose NPN transistors
 K Transistor, NPN, Dual
 $ENDCMP
 #
+$CMP D_Bridge_ALT
+D Diode bridge, +ve/-ve/AC/AC
+K rectifier ACDC
+F ~
+$ENDCMP
+#
 $CMP LED
 D Light emitting diode
 K LED diode
