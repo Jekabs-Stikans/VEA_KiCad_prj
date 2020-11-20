@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "D:\\Studiju materiali\\Iespiedplašu projektēšana\\VEA_KiCad_prj\\Battery\\Battery.sch")
-    (date "2020.11.20. 10:10:40")
+    (date "2020.11.20. 11:05:26")
     (tool "Eeschema (5.0.1)-4")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref BT1)
       (value Coin_Battery_Cell)
-      (footprint Battery_Holder:SMTU2032-LF)
+      (footprint Battery_Holder:NH5077-LF)
       (datasheet ~)
       (libsource (lib Device) (part Battery_Cell) (description "Single-cell battery"))
       (sheetpath (names /) (tstamps /))
