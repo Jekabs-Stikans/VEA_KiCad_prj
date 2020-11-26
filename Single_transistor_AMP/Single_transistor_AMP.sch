@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Single_transistor_AMP-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -63,7 +64,7 @@ U 1 1 5F8DD557
 P 2550 3850
 F 0 "R2" V 2650 3800 50  0000 L CNN
 F 1 "6k8" V 2550 3775 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 2480 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 2480 3850 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 2550 3850 50  0001 C CNN
 	1    2550 3850
 	1    0    0    -1  
@@ -138,7 +139,7 @@ U 1 1 5F8E26C5
 P 2550 2800
 F 0 "R1" V 2650 2750 50  0000 L CNN
 F 1 "24k" V 2550 2725 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 2480 2800 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 2480 2800 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 2550 2800 50  0001 C CNN
 	1    2550 2800
 	1    0    0    -1  
@@ -149,7 +150,7 @@ U 1 1 5F8E26FD
 P 3200 2800
 F 0 "R3" V 3300 2750 50  0000 L CNN
 F 1 "4k7" V 3200 2725 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 3130 2800 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 3130 2800 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 3200 2800 50  0001 C CNN
 	1    3200 2800
 	1    0    0    -1  
@@ -160,7 +161,7 @@ U 1 1 5F8E277A
 P 3200 3850
 F 0 "R4" V 3300 3800 50  0000 L CNN
 F 1 "1k8" V 3200 3775 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 3130 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 3130 3850 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 3200 3850 50  0001 C CNN
 	1    3200 3850
 	1    0    0    -1  
@@ -229,7 +230,7 @@ U 1 1 5F8E4645
 P 4450 3850
 F 0 "R6" V 4550 3800 50  0000 L CNN
 F 1 "6k8" V 4450 3775 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4380 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 4380 3850 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 4450 3850 50  0001 C CNN
 	1    4450 3850
 	1    0    0    -1  
@@ -290,7 +291,7 @@ U 1 1 5F8E466C
 P 4450 2800
 F 0 "R5" V 4550 2750 50  0000 L CNN
 F 1 "24k" V 4450 2725 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4380 2800 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 4380 2800 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 4450 2800 50  0001 C CNN
 	1    4450 2800
 	1    0    0    -1  
@@ -301,7 +302,7 @@ U 1 1 5F8E4673
 P 5100 2800
 F 0 "R7" V 5200 2750 50  0000 L CNN
 F 1 "4k7" V 5100 2725 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 5030 2800 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 5030 2800 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 5100 2800 50  0001 C CNN
 	1    5100 2800
 	1    0    0    -1  
@@ -312,7 +313,7 @@ U 1 1 5F8E467A
 P 5100 3850
 F 0 "R8" V 5200 3800 50  0000 L CNN
 F 1 "1k8" V 5100 3775 50  0000 L CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 5030 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_1206_HandSoldering" V 5030 3850 50  0001 C CNN
 F 3 "https://eu.mouser.com/datasheet/2/315/Panasonic_Resistors_Thick_Film_Anti_Sulf_Anti_Surg-1825099.pdf" H 5100 3850 50  0001 C CNN
 	1    5100 3850
 	1    0    0    -1  
@@ -363,4 +364,8 @@ Wire Wire Line
 Wire Wire Line
 	6000 4100 5450 4100
 Connection ~ 5450 4100
+Text Label 1850 2550 0    50   ~ 0
+GND
+Text Label 1850 2450 0    50   ~ 0
+VCC
 $EndSCHEMATC
